@@ -1,0 +1,2 @@
+# hurry
+primitive code
